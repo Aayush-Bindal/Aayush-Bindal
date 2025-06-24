@@ -47,8 +47,6 @@ I am a **Computer Science** Sophomore.
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<img align="right" width=310px alt="Unicorn" src="https://thecomputernoob.com/wp-content/uploads/2021/09/hells-yeah-to-learning-1.gif"/>
-
 ###### Backend & Frameworks:
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
