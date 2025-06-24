@@ -14,6 +14,7 @@ I am a **Computer Science** Sophomore.
 - ✔ Feel free to ask me anything! I’m motivated to help others.
 - Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music...
 - 📫 Reach out to me at: <a href="abindal1_be24@thapar.edu">abindal1_be24@thapar.edu</a>
+- https://portfolio-seven-amber-98.vercel.app/
 <br>   
 
 <!-- Social Links -->
