@@ -8,6 +8,7 @@
 
 I am a **Computer Science** Sophomore.
 - 📚 I’m currently learning ...
+  - *Next*
   - *AI/ML*
   - *DSA*
 - 🚀 I’m eager to join new projects.
