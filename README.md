@@ -16,11 +16,9 @@ I am a **Computer Science** Sophomore.
 - 📫 Reach out to me:
 <br>   
 
-<!-- Social Links -->
 <div align="center">
-  <a href="abindal1_be24@thapar.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
+  <a href="mailto:abindal1_be24@thapar.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
   <a href="https://www.linkedin.com/in/aayush-bindal/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
-<!--   <a href="https://x.com/aayush_00_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a> -->
  <a href="https://aayush-bindal.vercel.app/"><img src="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" /></a>
 </div>
 
@@ -61,29 +59,21 @@ I am a **Computer Science** Sophomore.
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 <br>
-<br>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***Currenty Learning***
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***Currently Learning***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<!-- Github Stats -->
+<br>
+
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <p align="center">
-<table align="center">
-<tr>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=aayush-bindal&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-</td>
-<td width="50%" align="center">
-    <img src="https://camo.githubusercontent.com/6e70d4f6dfacc1f31763db62d5acb9af52de1e1434907bb79f3d691be1108c3a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6161797573682d62696e64616c267468656d653d6461726b26686964655f626f726465723d7472756526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374"/>
-</td>
-</tr>
-</table>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=aayush-bindal&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 <br>
-
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
