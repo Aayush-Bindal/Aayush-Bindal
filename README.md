@@ -13,7 +13,7 @@ I am a **Computer Science** Sophomore.
 - 🚀 I’m eager to join new projects.
 - ✔ Feel free to ask me anything! I’m motivated to help others.
 - Outside tech, I enjoy socializing, playing video games, listening to music...
-- 📫 Reach out to me at: <a href="abindal1_be24@thapar.edu">abindal1_be24@thapar.edu</a>
+- 📫 Reach out to me:
 <br>   
 
 <!-- Social Links -->
