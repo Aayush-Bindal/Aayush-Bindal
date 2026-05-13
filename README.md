@@ -85,9 +85,9 @@ I am a **Computer Science** Sophomore.
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-![](https://github-readme-stats.shion.dev/api?username=aayush-bindal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=aayush-bindal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aayush-bindal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=aayush-bindal&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+<!-- ![](https://streak-stats.demolab.com/?user=aayush-bindal&theme=dark&hide_border=true)<br/>-->
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aayush-bindal&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <br>
